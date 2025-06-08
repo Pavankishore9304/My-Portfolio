@@ -43,7 +43,7 @@ const Resume = () => {
 
   // Data extracted from your provided resume info
   const education = [
-    { title: 'Bachelor of Technology, CSE', subtitle: 'PES University, Bangalore (2022 - Present)', description: 'CGPA: 7.84' },
+    { title: 'Bachelor of Technology, CSE', subtitle: 'PES University, Bangalore (2022 - Present)', description: 'CGPA: 7.95' },
     { title: 'Class XII (HSC)', subtitle: '2021 - 2022', description: 'Percentage: 90.84%' },
     { title: 'Class X (SSC)', subtitle: '2020', description: 'Percentage: 86.08%' },
   ];
@@ -129,7 +129,7 @@ const Resume = () => {
           </ResumeSection>
 
           <motion.a
-            href="/Pavan_Kishore_N_Resume.pdf"
+            href="/Pavan_Kishore_N_Resume_2.pdf"
             download
             className={`mt-12 inline-block px-8 py-3 rounded-lg text-white font-semibold transition-all duration-300 
                         bg-blue-600/90 dark:bg-blue-500/70 
